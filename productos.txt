@@ -1,0 +1,4 @@
+ID Producto: 7, Nombre: Orquidea, Precio: 100.00, Stock: 10
+ID Producto: 6, Nombre: Rosas rojas, Precio: 10.00, Stock: 0
+ID Producto: 5, Nombre: Gerberas, Precio: 25.00, Stock: 0
+ID Producto: 8, Nombre: Tulipán, Precio: 80.00, Stock: 5
