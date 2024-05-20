@@ -1,2 +1,0 @@
-ID Proveedor: 5, Nombre: Flores Mezquitan, Teléfono: 3333333331
-ID Proveedor: 6, Nombre: Flores Belenes, Teléfono: 11111111
