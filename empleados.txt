@@ -1,3 +1,0 @@
-ID Empleado: 6, Nombre: Julio González, RFC: 123456789, Dirección: Ambar 12
-ID Empleado: 7, Nombre: Maria Perez, RFC: 99999999, Dirección: Agua 12
-ID Empleado: 8, Nombre: Juanita Gomez, RFC: 988888888, Dirección: Soledad 23
