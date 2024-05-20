@@ -1,0 +1,2 @@
+ID Cliente: 8, Nombre: María García
+ID Cliente: 9, Nombre: Valeria Mercado

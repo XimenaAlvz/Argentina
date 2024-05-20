@@ -1,0 +1,4 @@
+ID Detalle Venta: 16, ID Producto: 5, Descripción: 5 gerberas, Cantidad: 5, Precio Venta: 125.00
+ID Detalle Venta: 18, ID Producto: 5, Descripción: 10 gerberas, Cantidad: 10, Precio Venta: 250.00
+ID Detalle Venta: 19, ID Producto: 8, Descripción: Una maceta de tulipan, Cantidad: 1, Precio Venta: 80.00
+ID Detalle Venta: 20, ID Producto: 8, Descripción: Una maceta de tulipan, Cantidad: 4, Precio Venta: 320.00
